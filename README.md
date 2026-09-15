@@ -1,13 +1,11 @@
 # Git Practical
 
-**Student:** Kshitiz Reddy  
-**Registration No.:** A26MTAI0008
+This is my coursework repository for **Git and GitHub practicals**.
 
-## About
+I’m using it to keep the practical work and notes from the course in one small, easy-to-follow repository.
 
-This repository contains practical work for learning and practicing **Git and GitHub fundamentals** as part of coursework.
-
-The repository documents hands-on practice with basic Git workflows, commits, and repository changes.
+**Kshitiz Reddy** · A26MTAI0008  
+M.Tech Artificial Intelligence · Bennett University
 
 ## Practicals
 
@@ -16,23 +14,29 @@ The repository documents hands-on practice with basic Git workflows, commits, an
 | Practical 2 | Basic Git commands and repository practice |
 | Practical 3 | Continuing Git practice and repository updates |
 
-## Topics Practiced
+## What I practiced
 
-- Initializing and working with Git repositories
-- Adding and committing changes
+- Creating and working with Git repositories
+- Staging and committing changes
 - Tracking file changes
 - Updating repository history
-- Working with GitHub repositories
+- Working with GitHub
 - Understanding the basic Git workflow
 
-## Repository Contents
+## Files
 
-- `README.md` — repository documentation
-- `notes.txt` — practical notes and supporting work
+```text
+git-practical/
+├── README.md
+├── notes.txt
+└── .gitignore
+```
 
-## Purpose
+`notes.txt` contains supporting notes from the practical work.
 
-The repository is maintained as a concise academic record of Git practical work and command-line practice.
+## A note about this repo
+
+This is intentionally a small coursework repository. The goal is to keep the practical exercises and notes together without adding unnecessary structure.
 
 ## Author
 
