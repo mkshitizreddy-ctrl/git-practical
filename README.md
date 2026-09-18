@@ -1,18 +1,15 @@
 # Git Practical
 
-Repository used for practicing core Git and GitHub commands as part of coursework (2026SOAI606 - Source Code Management using GitHub).
+Coursework for Git and GitHub practicals in the M.Tech Artificial Intelligence program.
 
-## Covered so far
+## Topics
 
-- Repository initialisation, staging, and commits
-- Commit history and diffing (git log, git diff, git diff --staged)
-- Remote setup, push, and pull with GitHub
-- Cloning a repository and restoring files (git restore, git show)
-- Feature branch workflow (create, commit, merge, delete)
+- Git repository setup and basic commands
+- Staging, commits, logs, and diffs
+- Remote repositories and GitHub
+- Branching, merging, and file restoration
 
-## Structure
+## Files
 
-- README.md - this file
-- notes.txt - practice notes for staging/diff exercises
-- login.txt - sample file added via feature branch workflow
-- .gitignore - excludes Python and editor artifacts
+- `notes.txt` — practical notes
+- `login.txt` — sample file used for branch practice
