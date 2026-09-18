@@ -1,45 +1,18 @@
 # Git Practical
 
-This is my coursework repository for **Git and GitHub practicals**.
+Repository used for practicing core Git and GitHub commands as part of coursework (2026SOAI606 - Source Code Management using GitHub).
 
-I’m using it to keep the practical work and notes from the course in one small, easy-to-follow repository.
+## Covered so far
 
-**Kshitiz Reddy** · A26MTAI0008  
-M.Tech Artificial Intelligence · Bennett University
+- Repository initialisation, staging, and commits
+- Commit history and diffing (git log, git diff, git diff --staged)
+- Remote setup, push, and pull with GitHub
+- Cloning a repository and restoring files (git restore, git show)
+- Feature branch workflow (create, commit, merge, delete)
 
-## Practicals
+## Structure
 
-| Practical | Focus |
-|---|---|
-| Practical 2 | Basic Git commands and repository practice |
-| Practical 3 | Continuing Git practice and repository updates |
-
-## What I practiced
-
-- Creating and working with Git repositories
-- Staging and committing changes
-- Tracking file changes
-- Updating repository history
-- Working with GitHub
-- Understanding the basic Git workflow
-
-## Files
-
-```text
-git-practical/
-├── README.md
-├── notes.txt
-└── .gitignore
-```
-
-`notes.txt` contains supporting notes from the practical work.
-
-## A note about this repo
-
-This is intentionally a small coursework repository. The goal is to keep the practical exercises and notes together without adding unnecessary structure.
-
-## Author
-
-**Kshitiz Reddy**  
-M.Tech Artificial Intelligence  
-Bennett University
+- README.md - this file
+- notes.txt - practice notes for staging/diff exercises
+- login.txt - sample file added via feature branch workflow
+- .gitignore - excludes Python and editor artifacts
