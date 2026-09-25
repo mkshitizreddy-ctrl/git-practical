@@ -1,1 +1,2 @@
-Version A of this line, added on branch-a. 
+Version A of this line, added on branch-a.
+Version B of this line, added on branch-b.
